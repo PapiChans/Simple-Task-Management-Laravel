@@ -8,7 +8,7 @@
 | ------------------- | --------------------|
 | **Description**     | This is a Simple Task Management built in Laravel 12. |
 | **Project Duration**    | March 14, 2025 (4 Hours)|
-| **Current Version** | v1.0.2|
+| **Current Version** | v1.0.3|
 
 
 
